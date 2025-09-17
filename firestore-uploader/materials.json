@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Concrete",
+    "type": "base",
+    "maxAllowed": null,
+    "sourceCarbonEmission": null
+  },
+  {
+    "name": "Cement",
+    "type": "base",
+    "maxAllowed": null,
+    "sourceCarbonEmission": null
+  },
+  {
+    "name": "Sand and steel",
+    "type": "base",
+    "maxAllowed": null,
+    "sourceCarbonEmission": null
+  },
+  {
+    "name": "Waste Ceramic",
+    "type": "alternative",
+    "maxAllowed": 15,
+    "sourceCarbonEmission": 8.1
+  },
+  {
+    "name": "Recycle Aggregate",
+    "type": "alternative",
+    "maxAllowed": 15,
+    "sourceCarbonEmission": 8.1
+  },
+  {
+    "name": "Blast Furnace Slag",
+    "type": "alternative",
+    "maxAllowed": 35,
+    "sourceCarbonEmission": 8.1
+  },
+  {
+    "name": "Brick Waste",
+    "type": "alternative",
+    "maxAllowed": 15,
+    "sourceCarbonEmission": 8.1
+  },
+  {
+    "name": "Fly ash",
+    "type": "alternative",
+    "maxAllowed": 20,
+    "sourceCarbonEmission": 925
+  },
+  {
+    "name": "Biomass Bottom ash",
+    "type": "alternative",
+    "maxAllowed": 15,
+    "sourceCarbonEmission": 925
+  },
+  {
+    "name": "Micro silica",
+    "type": "alternative",
+    "maxAllowed": 7.5,
+    "sourceCarbonEmission": 925
+  },
+  {
+    "name": "Blast furnace Slag",
+    "type": "alternative",
+    "maxAllowed": 80,
+    "sourceCarbonEmission": 7.65
+  },
+  {
+    "name": "Glass Powder",
+    "type": "alternative",
+    "maxAllowed": 20,
+    "sourceCarbonEmission": 7.65
+  },
+  {
+    "name": "Ceramic Powder",
+    "type": "alternative",
+    "maxAllowed": 12.5,
+    "sourceCarbonEmission": 7.65
+  },
+  {
+    "name": "Reinforce Bar",
+    "type": "alternative",
+    "maxAllowed": 15,
+    "sourceCarbonEmission": 1.85
+  }
+]
