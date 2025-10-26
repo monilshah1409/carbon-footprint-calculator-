@@ -1,0 +1,101 @@
+{
+  "ahmedabad": {
+    "soil_type": "Black Cotton Soil",
+    "suitable_materials": ["Lime", "Fly Ash", "Bamboo Charcoal", "Quarry Dust"],
+    "unsuitable_materials": ["Recycled Plastic", "Geocells"],
+    "notes": "High swelling potential. Stabilization with lime and fly ash helps reduce plasticity and increase load-bearing capacity."
+  },
+  "surat": {
+    "soil_type": "Sandy Soil",
+    "suitable_materials": [
+      "Coconut Coir",
+      "Recycled Plastic",
+      "Geocells",
+      "Bitumen Emulsion"
+    ],
+    "unsuitable_materials": ["Lime", "Fly Ash"],
+    "notes": "Good drainage, but low cohesion. Reinforcement with geocells and plastics improves structural stability."
+  },
+  "rajkot": {
+    "soil_type": "Laterite Soil",
+    "suitable_materials": [
+      "Fly Ash",
+      "Soil Stabilizer",
+      "Geotextiles",
+      "Recycled Aggregate"
+    ],
+    "unsuitable_materials": ["Coconut Coir", "Bitumen Emulsion"],
+    "notes": "Porous and rich in iron; performs well with stabilizers and geotextiles for better durability."
+  },
+  "vadodara": {
+    "soil_type": "Alluvial Soil",
+    "suitable_materials": ["Lime", "Geogrid", "Fly Ash", "Recycled Concrete"],
+    "unsuitable_materials": ["Geocells"],
+    "notes": "Soft soil, moderate moisture. Lime and fly ash work well in strengthening its base."
+  },
+  "bhavnagar": {
+    "soil_type": "Saline Soil",
+    "suitable_materials": ["Bamboo Charcoal", "Fly Ash", "Geo-Membranes"],
+    "unsuitable_materials": ["Lime", "Bitumen Emulsion"],
+    "notes": "Presence of salt affects material strength. Charcoal and membranes help control moisture and leaching."
+  },
+  "kutch": {
+    "soil_type": "Arid Desert Soil",
+    "suitable_materials": [
+      "Geocells",
+      "Recycled Plastic",
+      "Bitumen Emulsion",
+      "Soil Stabilizers"
+    ],
+    "unsuitable_materials": ["Fly Ash", "Lime"],
+    "notes": "Loose and granular texture. Reinforced structures like geocells help bind and stabilize the soil."
+  },
+  "gandhinagar": {
+    "soil_type": "Silty Soil",
+    "suitable_materials": ["Geotextiles", "Fly Ash", "Recycled Aggregate"],
+    "unsuitable_materials": ["Recycled Plastic", "Bitumen Emulsion"],
+    "notes": "Retains moisture, poor drainage. Needs reinforcement for long-term load resistance."
+  },
+  "junagadh": {
+    "soil_type": "Red Soil",
+    "suitable_materials": ["Fly Ash", "Coconut Coir", "Geotextiles", "Lime"],
+    "unsuitable_materials": ["Geocells", "Recycled Concrete"],
+    "notes": "High iron content. Stabilization with lime and coir is effective for eco-friendly roads."
+  },
+  "anand": {
+    "soil_type": "Alluvial Soil",
+    "suitable_materials": ["Lime", "Fly Ash", "Geogrid"],
+    "unsuitable_materials": ["Geocells", "Plastic Waste"],
+    "notes": "Soft and fertile soil. Requires reinforcement to manage compaction under road weight."
+  },
+  "bharuch": {
+    "soil_type": "Saline Alluvial Soil",
+    "suitable_materials": ["Fly Ash", "Geo-Membranes", "Coconut Coir"],
+    "unsuitable_materials": ["Lime", "Geogrid"],
+    "notes": "Salinity affects concrete binding. Use of membranes and organic binders helps increase stability."
+  },
+  "jamnagar": {
+    "soil_type": "Arid Coastal Soil",
+    "suitable_materials": ["Geocells", "Recycled Plastic", "Soil Stabilizer"],
+    "unsuitable_materials": ["Fly Ash", "Bitumen Emulsion"],
+    "notes": "Coastal conditions demand reinforcement against erosion. Plastics and cells perform better."
+  },
+  "mehsana": {
+    "soil_type": "Clayey Soil",
+    "suitable_materials": ["Lime", "Fly Ash", "Geotextiles"],
+    "unsuitable_materials": ["Recycled Plastic"],
+    "notes": "Clayey soils retain water and swell. Lime and ash are essential for stabilizing."
+  },
+  "patan": {
+    "soil_type": "Loamy Soil",
+    "suitable_materials": ["Geotextiles", "Fly Ash", "Lime"],
+    "unsuitable_materials": ["Geocells", "Plastic Waste"],
+    "notes": "Balanced texture, but still benefits from base stabilization techniques."
+  },
+  "valsad": {
+    "soil_type": "Sandy Loam",
+    "suitable_materials": ["Coconut Coir", "Geogrid", "Recycled Aggregate"],
+    "unsuitable_materials": ["Fly Ash", "Lime"],
+    "notes": "Good drainage. Reinforced structures improve cohesion and longevity."
+  }
+}
